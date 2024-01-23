@@ -1,11 +1,12 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Presto Documentation](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What is Presto?](overview/what-is-presto.md)
+* [✨ Main Functionality](overview/main-functionality/README.md)
+  * [How to Create a Rollup](overview/main-functionality/how-to-create-a-rollup.md)
 
 ## Product Guides
 
