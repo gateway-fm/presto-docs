@@ -8,6 +8,12 @@
 * [✨ Main Functionality](overview/main-functionality/README.md)
   * [How to Create a Rollup](overview/main-functionality/how-to-create-a-rollup.md)
   * [How To Create & Use a Gasless Rollup](overview/main-functionality/how-to-create-and-use-a-gasless-rollup.md)
+  * [How To Delete A Rollup](overview/main-functionality/how-to-delete-a-rollup.md)
+  * [How To Deploy Mainnet](overview/main-functionality/how-to-deploy-mainnet.md)
+  * [How To Add a Prover](overview/main-functionality/how-to-add-a-prover.md)
+  * [Can I Change The Name of My Rollup?](overview/main-functionality/can-i-change-the-name-of-my-rollup.md)
+  * [Inactivity Period (for Trial)](overview/main-functionality/inactivity-period-for-trial.md)
+  * [How To Use Metamask with Presto](overview/main-functionality/how-to-use-metamask-with-presto.md)
 
 ## Product Guides
 
