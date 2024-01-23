@@ -16,6 +16,7 @@
   * [How to use a Faucet](overview/main-functionality/how-to-use-a-faucet.md)
   * [How to use a Block Explorer](overview/main-functionality/how-to-use-a-block-explorer.md)
   * [Inactivity Period (for Trial)](overview/main-functionality/inactivity-period-for-trial.md)
+  * [How to Use a Bridge ef40695e1c8a4c58a9bdbb03971617a4](overview/main-functionality/how-to-use-a-bridge-ef40695e1c8a4c58a9bdbb03971617a4.md)
 
 ## Product Guides
 
