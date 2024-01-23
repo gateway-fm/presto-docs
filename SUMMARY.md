@@ -12,8 +12,9 @@
   * [How To Deploy Mainnet](overview/main-functionality/how-to-deploy-mainnet.md)
   * [How To Add a Prover](overview/main-functionality/how-to-add-a-prover.md)
   * [Can I Change The Name of My Rollup?](overview/main-functionality/can-i-change-the-name-of-my-rollup.md)
-  * [Inactivity Period (for Trial)](overview/main-functionality/inactivity-period-for-trial.md)
   * [How To Use Metamask with Presto](overview/main-functionality/how-to-use-metamask-with-presto.md)
+  * [Inactivity Period (for Trial)](overview/main-functionality/inactivity-period-for-trial.md)
+  * [How to use a Faucet 5475a17bdded4c36bc208c9e54031035](overview/main-functionality/how-to-use-a-faucet-5475a17bdded4c36bc208c9e54031035.md)
 
 ## Product Guides
 
