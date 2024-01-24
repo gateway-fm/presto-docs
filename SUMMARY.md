@@ -22,11 +22,10 @@
   * [How To Deploy A Smart Contract](overview/features-for-developers/how-to-deploy-a-smart-contract.md)
   * [How to use HardHat with Presto](overview/features-for-developers/how-to-use-hardhat-with-presto.md)
   * [How To Use Presto with web3.js](overview/features-for-developers/how-to-use-presto-with-web3.js.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+  * [How To Use Presto with ethers.js](overview/features-for-developers/how-to-use-presto-with-ethers.js.md)
+  * [How To Use Presto with viem.sh](overview/features-for-developers/how-to-use-presto-with-viem.sh.md)
+  * [How to use Presto with ethers.py](overview/features-for-developers/how-to-use-presto-with-ethers.py.md)
+  * [How to use Presto with web3.py](overview/features-for-developers/how-to-use-presto-with-web3.py.md)
 
 ## Fundamentals
 
@@ -36,5 +35,5 @@
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
+* [🎨 For Enterprises](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
