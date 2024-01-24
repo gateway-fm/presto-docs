@@ -10,41 +10,64 @@ Top to bottom it consist of:
 * “gear” menu with options to delete the L2 ([How To Delete A Rollup](https://www.notion.so/How-To-Delete-A-Rollup-b45d5f5cbb9746f39d6c8d99f32b8fba?pvs=21))
 * navigation strip
 * rootchain, location, status and zkEVM logo
-* sections
+* sections\
+
+
+<figure><img src="../../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Getting Started
 
-Here you can add your chain to a wallet and also download the config for Hardhat to deploy smart contracts.
+Here you can add your chain to a wallet and also download the config for Hardhat to deploy smart contracts.\
+
+
+<figure><img src="../../.gitbook/assets/Untitled 1 (1).png" alt=""><figcaption><p>Getting Started</p></figcaption></figure>
 
 ### RPC
 
 Here is all the necessary info about the RPC, is it public or private, chain id and the RPC url.
 
+<figure><img src="../../.gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
+
 ### Bridge
 
-here is the link to the UI (and visibility settings) for the LX-to-LY bridge fro Polygon CDK
+here is the link to the UI (and visibility settings) for the LX-to-LY bridge fro Polygon CDK\
+
+
+<figure><img src="../../.gitbook/assets/Untitled 3.png" alt=""><figcaption></figcaption></figure>
 
 ### Block Explorer
 
 Each rollup comes with the blockscout instance. [How to use a Block Explorer](https://www.notion.so/How-to-use-a-Block-Explorer-b822b1fab0f143cb88898bb1818d1920?pvs=21)
 
+<figure><img src="../../.gitbook/assets/Untitled 4.png" alt=""><figcaption><p>Block explorer</p></figcaption></figure>
+
 ### Faucet
 
 Each testnet comes with a faucet where you can get test gas tokens for smart contract deployments, etc.
 
+<figure><img src="../../.gitbook/assets/Untitled 5.png" alt=""><figcaption><p>Faucet</p></figcaption></figure>
+
 ### Diagnostics
 
-This section contains information about smart contracts on L1
+This section contains information about smart contracts on L1\
+
+
+<figure><img src="../../.gitbook/assets/Untitled 6.png" alt=""><figcaption><p>Diagnostics</p></figcaption></figure>
 
 ### Data center info
 
 basic info about the datacenter
 
+<figure><img src="../../.gitbook/assets/Untitled 7.png" alt=""><figcaption><p>Data center info</p></figcaption></figure>
+
 ### Tokenomics
 
 Shows the gas marketplace setting. If the rollup is gasless, it will look like that.
 
-By the default non-gasless rollup it will look like that.
+By the default non-gasless rollup it will look like that.\
+
+
+<figure><img src="../../.gitbook/assets/Untitled 9.png" alt=""><figcaption><p>Tokenomics</p></figcaption></figure>
 
 ## Enterprise customers
 

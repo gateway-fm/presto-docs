@@ -28,6 +28,7 @@
   * [How to use Presto with web3.py](overview/features-for-developers/how-to-use-presto-with-web3.py.md)
 * [📊 Presto UI/Dashboards](overview/presto-ui-dashboards/README.md)
   * [Presto L2 Dashboard](overview/presto-ui-dashboards/presto-l2-dashboard.md)
+  * [Presto List Of Projects](overview/presto-ui-dashboards/presto-list-of-projects.md)
 
 ## Fundamentals
 
