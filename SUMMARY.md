@@ -34,6 +34,8 @@
 * [💳 Pricing & Trial](overview/pricing-and-trial/README.md)
   * [Pricing & Tiers](overview/pricing-and-trial/pricing-and-tiers.md)
   * [What are the conditions of the trial](overview/pricing-and-trial/what-are-the-conditions-of-the-trial.md)
+* [🏢 For Enterprise Customers](overview/for-enterprise-customers/README.md)
+  * [How to Become an Enterprise Customer?](overview/for-enterprise-customers/how-to-become-an-enterprise-customer.md)
 
 ## Fundamentals
 
