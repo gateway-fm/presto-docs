@@ -15,8 +15,11 @@
   * [How To Use Metamask with Presto](overview/main-functionality/how-to-use-metamask-with-presto.md)
   * [How to use a Faucet](overview/main-functionality/how-to-use-a-faucet.md)
   * [How to use a Block Explorer](overview/main-functionality/how-to-use-a-block-explorer.md)
-  * [Inactivity Period (for Trial)](overview/main-functionality/inactivity-period-for-trial.md)
   * [How to Use a Bridge](overview/main-functionality/how-to-use-a-bridge.md)
+  * [Inactivity Period (for Trial)](overview/main-functionality/inactivity-period-for-trial.md)
+* [💻 Features for Developers](overview/features-for-developers/README.md)
+  * [What Is RPC](overview/features-for-developers/what-is-rpc.md)
+  * [How To Deploy A Smart Contract](overview/features-for-developers/how-to-deploy-a-smart-contract.md)
 
 ## Product Guides
 
