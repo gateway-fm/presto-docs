@@ -37,6 +37,7 @@
 * [🏢 For Enterprise Customers](overview/for-enterprise-customers/README.md)
   * [How to Become an Enterprise Customer?](overview/for-enterprise-customers/how-to-become-an-enterprise-customer.md)
   * [Enterprise vs Paid —what is the difference?](overview/for-enterprise-customers/enterprise-vs-paid-what-is-the-difference.md)
+  * [Enterprise Onboarding 33fbd69df36d42afbfa167c745029e7b](overview/for-enterprise-customers/enterprise-onboarding-33fbd69df36d42afbfa167c745029e7b.md)
 
 ## Fundamentals
 
