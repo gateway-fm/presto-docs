@@ -39,7 +39,7 @@
   * [Enterprise vs Paid —what is the difference?](overview/for-enterprise-customers/enterprise-vs-paid-what-is-the-difference.md)
   * [Enterprise Onboarding](overview/for-enterprise-customers/enterprise-onboarding.md)
   * [Presto Customization Options](overview/for-enterprise-customers/presto-customization-options.md)
-  * [Where To Get Support](overview/for-enterprise-customers/where-to-get-support.md)
+* [☎ Where To Get Support](overview/where-to-get-support.md)
 
 ## Fundamentals
 
