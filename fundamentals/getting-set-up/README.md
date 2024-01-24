@@ -47,3 +47,7 @@
 [how-to-use-a-bridge.md](../../overview/main-functionality/how-to-use-a-bridge.md "mention")
 
 </details>
+
+{% embed url="https://youtu.be/rKci4nyPC4w" %}
+Build your own layer2 chain
+{% endembed %}
