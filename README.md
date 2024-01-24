@@ -18,18 +18,14 @@ Presto is a Platform as a Service that allows you to effortlessly create your ow
 [main-functionality](overview/main-functionality/)
 {% endcontent-ref %}
 
+{% content-ref url="overview/features-for-developers/" %}
+[features-for-developers](overview/features-for-developers/)
+{% endcontent-ref %}
+
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="fundamentals/getting-set-up.md" %}
 [getting-set-up.md](fundamentals/getting-set-up.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
