@@ -38,6 +38,7 @@
   * [How to Become an Enterprise Customer?](overview/for-enterprise-customers/how-to-become-an-enterprise-customer.md)
   * [Enterprise vs Paid —what is the difference?](overview/for-enterprise-customers/enterprise-vs-paid-what-is-the-difference.md)
   * [Enterprise Onboarding](overview/for-enterprise-customers/enterprise-onboarding.md)
+  * [Presto Customization Options](overview/for-enterprise-customers/presto-customization-options.md)
 
 ## Fundamentals
 
