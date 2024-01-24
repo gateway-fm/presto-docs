@@ -20,6 +20,8 @@
 * [💻 Features for Developers](overview/features-for-developers/README.md)
   * [What Is RPC](overview/features-for-developers/what-is-rpc.md)
   * [How To Deploy A Smart Contract](overview/features-for-developers/how-to-deploy-a-smart-contract.md)
+  * [How to use HardHat with Presto](overview/features-for-developers/how-to-use-hardhat-with-presto.md)
+  * [How To Use Presto with web3.js](overview/features-for-developers/how-to-use-presto-with-web3.js.md)
 
 ## Product Guides
 
