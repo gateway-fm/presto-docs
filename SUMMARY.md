@@ -29,6 +29,7 @@
 * [📊 Presto UI/Dashboards](overview/presto-ui-dashboards/README.md)
   * [Presto L2 Dashboard](overview/presto-ui-dashboards/presto-l2-dashboard.md)
   * [Presto List Of Projects](overview/presto-ui-dashboards/presto-list-of-projects.md)
+* [⛰ Stavanger Testnet](overview/stavanger-testnet.md)
 
 ## Fundamentals
 
