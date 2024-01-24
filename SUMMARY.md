@@ -36,6 +36,7 @@
   * [What are the conditions of the trial](overview/pricing-and-trial/what-are-the-conditions-of-the-trial.md)
 * [🏢 For Enterprise Customers](overview/for-enterprise-customers/README.md)
   * [How to Become an Enterprise Customer?](overview/for-enterprise-customers/how-to-become-an-enterprise-customer.md)
+  * [Enterprise vs Paid —what is the difference?](overview/for-enterprise-customers/enterprise-vs-paid-what-is-the-difference.md)
 
 ## Fundamentals
 
