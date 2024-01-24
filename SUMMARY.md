@@ -33,7 +33,7 @@
   * [What is Stavanger Testnet?](overview/stavanger-testnet/what-is-stavanger-testnet.md)
 * [💳 Pricing & Trial](overview/pricing-and-trial/README.md)
   * [Pricing & Tiers](overview/pricing-and-trial/pricing-and-tiers.md)
-  * [What are the conditions of the trial 01b77be4a9d447d5886a8fef4835c948](overview/pricing-and-trial/what-are-the-conditions-of-the-trial-01b77be4a9d447d5886a8fef4835c948.md)
+  * [What are the conditions of the trial](overview/pricing-and-trial/what-are-the-conditions-of-the-trial.md)
 
 ## Fundamentals
 

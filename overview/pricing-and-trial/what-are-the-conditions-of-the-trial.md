@@ -1,4 +1,4 @@
-# What are the conditions of the trial 01b77be4a9d447d5886a8fef4835c948
+# What are the conditions of the trial
 
 ## What are the conditions of the trial
 
