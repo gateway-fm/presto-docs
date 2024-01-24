@@ -1,6 +1,12 @@
 # 👋 Presto Documentation
 
-Presto is a Platform as a Service that allows you to effortlessly create your own zkEVM rollups with all the necessary infrastructure in just four clicks.
+Presto is a Platform as a Service that allows you to effortlessly create your own zkEVM rollups with all the necessary infrastructure in just four clicks.\
+\
+
+
+{% hint style="info" %}
+:notebook\_with\_decorative\_cover:Errors and feedback suggestions send to our Discord channel: [https://discord.gg/3Edt7BCKyv](https://discord.gg/3Edt7BCKyv)
+{% endhint %}
 
 ## Quick links
 
