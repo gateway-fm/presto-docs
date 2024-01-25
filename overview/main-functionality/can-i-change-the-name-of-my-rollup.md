@@ -2,7 +2,7 @@
 
 ## Enterprise Customer
 
-If you are an [Enteprise Customer](https://www.notion.so/Presto-User-Documentation-9227c945efe54e78a6b58d9c6d2f1f3f?pvs=21) — yes, you can ask `support+presto@gateway.fm` to change your name.
+If you are an [Enteprise Customer](../for-enterprise-customers/enterprise-onboarding.md) — yes, you can ask `support+presto@gateway.fm` to change your name.
 
 ## Trial / Paid Customers
 
