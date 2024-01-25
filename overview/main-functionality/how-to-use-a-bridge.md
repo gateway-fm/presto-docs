@@ -1,4 +1,4 @@
-# How to Use a Bridge ef40695e1c8a4c58a9bdbb03971617a4
+# How to Use a Bridge
 
 ## How to Use a Bridge
 
@@ -65,34 +65,34 @@ After you’ve connected to the public rollup sn2-Stavanger (root chain Ethereum
 
 1.Go to Bridge Section in presto.gateway.fm:
 
-[https://lh7-us.googleusercontent.com/3PUlDZ6rHwjMd-jkmip6YvJas\_Gw9XSq6\_zlTSvdsVd3JxC\_NJ615Syp0wB30mKxPSM3tQCA5g-ssdaEbKXO48VU8PXtUAUlXsGfrZcfr6nId3gPudIhUzBPspSVMowAASIEU1UPE0qh2GGtbLe0DXs](https://lh7-us.googleusercontent.com/3PUlDZ6rHwjMd-jkmip6YvJas\_Gw9XSq6\_zlTSvdsVd3JxC\_NJ615Syp0wB30mKxPSM3tQCA5g-ssdaEbKXO48VU8PXtUAUlXsGfrZcfr6nId3gPudIhUzBPspSVMowAASIEU1UPE0qh2GGtbLe0DXs)
+<figure><img src="../../.gitbook/assets/Bridge_1.png" alt=""><figcaption></figcaption></figure>
 
 2..Go to a Bridge URL and Add your rollup/validium to your wallet
 
-[https://lh7-us.googleusercontent.com/I3LpK7edTpOba3gWJLsfxdG6mBGl6f\_IFaP9Nai\_tJWiBbwnVJRZtQTIQFxWqpseGiMGcyDbQFxqC8plWi42V91FPNs9LEMiq6ozqz224S2KzTbpJw0L5kGnkaGDCtBDAW4PPsM7zhSGrhFnnISIVxY](https://lh7-us.googleusercontent.com/I3LpK7edTpOba3gWJLsfxdG6mBGl6f\_IFaP9Nai\_tJWiBbwnVJRZtQTIQFxWqpseGiMGcyDbQFxqC8plWi42V91FPNs9LEMiq6ozqz224S2KzTbpJw0L5kGnkaGDCtBDAW4PPsM7zhSGrhFnnISIVxY)
+<figure><img src="../../.gitbook/assets/Bridge2.jpeg" alt=""><figcaption></figcaption></figure>
 
 3. Go to ETH Faucet and type your address to receive 1 ETH.
 
-[https://lh7-us.googleusercontent.com/J0LBvINiqDrGtnW4-usjH3C-zpECL0omScrbydYfGM\_EnLuz4IFP7OctndAMx0SAQvdgHGhJa75OgY1GNZA9uQ9uIcExkDQhrCLCuQgfJV5rhHpUTn6tYptP5tL4lmsEtmravQsLiNcBJHi8S\_0SAS0](https://lh7-us.googleusercontent.com/J0LBvINiqDrGtnW4-usjH3C-zpECL0omScrbydYfGM\_EnLuz4IFP7OctndAMx0SAQvdgHGhJa75OgY1GNZA9uQ9uIcExkDQhrCLCuQgfJV5rhHpUTn6tYptP5tL4lmsEtmravQsLiNcBJHi8S\_0SAS0)
+<figure><img src="../../.gitbook/assets/bridge_3.jpeg" alt=""><figcaption></figcaption></figure>
 
 4. Bridge 1ETH to Ethereum  Sepolia
 
-[https://lh7-us.googleusercontent.com/hSQPkBQ2PkuV5suUqxh9jSLKyufQ41j\_dGO22tyxQtVi85Ab-AdFTEGCyia8ck1g0A3qt3BpaDK7c07scImUPyo-qHmcvT2BAquw2wFQioWnhZH9os\_9Teo4X-\_MOgsKNTqG67VQjitCJbMk650vStQ](https://lh7-us.googleusercontent.com/hSQPkBQ2PkuV5suUqxh9jSLKyufQ41j\_dGO22tyxQtVi85Ab-AdFTEGCyia8ck1g0A3qt3BpaDK7c07scImUPyo-qHmcvT2BAquw2wFQioWnhZH9os\_9Teo4X-\_MOgsKNTqG67VQjitCJbMk650vStQ)
+<figure><img src="../../.gitbook/assets/bridge_4.jpeg" alt=""><figcaption></figcaption></figure>
 
-[https://lh7-us.googleusercontent.com/Kmvx6ocd8VXasV8GpSorwo3I3NYbnW1aiK0DDK\_6S3W10EbLI7EhbRgIv3hj44DraHOUqo9k6GZGkVz6UFRW5P4jFouTTt7St0cVGTa\_vC2YCTj87XyJwQcsLpdFfrxRhOqbOGE1OwjpaCCtQqVa8zo](https://lh7-us.googleusercontent.com/Kmvx6ocd8VXasV8GpSorwo3I3NYbnW1aiK0DDK\_6S3W10EbLI7EhbRgIv3hj44DraHOUqo9k6GZGkVz6UFRW5P4jFouTTt7St0cVGTa\_vC2YCTj87XyJwQcsLpdFfrxRhOqbOGE1OwjpaCCtQqVa8zo)
+<figure><img src="../../.gitbook/assets/bridge_5.jpeg" alt=""><figcaption></figcaption></figure>
 
-[https://lh7-us.googleusercontent.com/0wYhNuaTiKo4ebvHK6Ryzn-\_E9CoVtOZbEXCmi9PCZ4MLxEsep4zdej29wCVQEfPR3i61LOWNn40EBf3OzX8-ynBcH6w9Jr\_Si\_gdROik66GLjBzujyApMXhGrWPZlsKXKr6s0RhOzjXfIAWNt\_LB1w](https://lh7-us.googleusercontent.com/0wYhNuaTiKo4ebvHK6Ryzn-\_E9CoVtOZbEXCmi9PCZ4MLxEsep4zdej29wCVQEfPR3i61LOWNn40EBf3OzX8-ynBcH6w9Jr\_Si\_gdROik66GLjBzujyApMXhGrWPZlsKXKr6s0RhOzjXfIAWNt\_LB1w)
+<figure><img src="../../.gitbook/assets/bridge_6.jpeg" alt=""><figcaption></figcaption></figure>
 
 5. In your Presto Bridge you will see the funds and from here you can bridge your ETH. Choose from where and the amount. Click ‘bridge’ and then confirm in your MetaMask wallet. Within Presto L2, you can execute off-chain transactions. These transactions are processed and verified using ZK-proofs, which ensure the validity and integrity of the transaction history. Once the transactions are processed, cryptographic proofs-of-validity are generated.
 6. The activity will be processed and after that you can see the Bridge details.
 
-[https://lh7-us.googleusercontent.com/bHcoLDpkaSRZjUoOlj8jah5IKvqvl-lIJokL5LfTuD\_drD5cwu6mpURYKByXT0hXF5biRdAYqh-b50JB58qgYuP2OiYg8TntKcl1SBa0C3GaxvGY\_Giy6zFPzGZy9vMrzoPpKY7DN2NKXto8Ep8LXz4](https://lh7-us.googleusercontent.com/bHcoLDpkaSRZjUoOlj8jah5IKvqvl-lIJokL5LfTuD\_drD5cwu6mpURYKByXT0hXF5biRdAYqh-b50JB58qgYuP2OiYg8TntKcl1SBa0C3GaxvGY\_Giy6zFPzGZy9vMrzoPpKY7DN2NKXto8Ep8LXz4)
+<figure><img src="../../.gitbook/assets/bridge_7.jpeg" alt=""><figcaption></figcaption></figure>
 
-[https://lh7-us.googleusercontent.com/c7mjqYNwbDA0qHcFDDQ-josaqjjVLMn0gNjPmk-BmPjFUE44TGxB4Gw26Tr5b2tpOmBwgusgbBYo6JaZRE9PH2ck6LIxqWl-\_tpaoVNb5I1Cl1Xm\_Tj6z-nh3kcMZ6mWNHWQxwalxoH9bKNaxyJ6fGI](https://lh7-us.googleusercontent.com/c7mjqYNwbDA0qHcFDDQ-josaqjjVLMn0gNjPmk-BmPjFUE44TGxB4Gw26Tr5b2tpOmBwgusgbBYo6JaZRE9PH2ck6LIxqWl-\_tpaoVNb5I1Cl1Xm\_Tj6z-nh3kcMZ6mWNHWQxwalxoH9bKNaxyJ6fGI)
+<figure><img src="../../.gitbook/assets/bridge_8.jpeg" alt=""><figcaption></figcaption></figure>
 
 7.The details are also available on the blockchain explorer. Once the proofs are validated, the transactions are executed on the L1 blockchain, providing trust and security. This can be observed by examining the transaction history and state changes on the L1 blockchain via block explorers or any other interface provided by the blockchain network.
 
-[https://lh7-us.googleusercontent.com/RDiw83xuXMj3kKl\_ABk219uZEoYzD8ebyjmkxlijdRlQ4\_5D-xeIVlzl1ewChtr\_qoBZJYviD6dXA8PnlP2qQEsJXxFr3A0TxScUA6DK4t3Vs0nVYG68MBr7z4iMILi\_oNI2IQsWELxaK4H0BYFHUO4](https://lh7-us.googleusercontent.com/RDiw83xuXMj3kKl\_ABk219uZEoYzD8ebyjmkxlijdRlQ4\_5D-xeIVlzl1ewChtr\_qoBZJYviD6dXA8PnlP2qQEsJXxFr3A0TxScUA6DK4t3Vs0nVYG68MBr7z4iMILi\_oNI2IQsWELxaK4H0BYFHUO4)
+<figure><img src="../../.gitbook/assets/bridge_9.jpeg" alt=""><figcaption></figcaption></figure>
 
 By using the bridge on Presto, you get the benefits of increased scalability, reduced transaction fees, and improved privacy, as most of the transaction processing occurs off-chain within the ZK-rollup.
 
