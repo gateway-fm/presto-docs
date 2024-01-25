@@ -1,8 +1,8 @@
-# Enterprise Onboarding 33fbd69df36d42afbfa167c745029e7b
+# Enterprise Onboarding
 
 ## Enterprise Onboarding
 
-see also [How to Become an Enterprise Customer?](https://www.notion.so/How-to-Become-an-Enterprise-Customer-399550f40c1f4dfc9f8e11263f7c246f?pvs=21) and [Enterprise vs Paid — what is the difference?](https://www.notion.so/Enterprise-vs-Paid-what-is-the-difference-eea20637f5334261a600f2fcbe8c778f?pvs=21)
+see also[ How to Become an Enterprise Customer?](how-to-become-an-enterprise-customer.md) and [Enterprise vs Paid — what is the difference?](enterprise-vs-paid-what-is-the-difference.md)
 
 ## 1. Testing on a private validium (optimistic mode)
 
@@ -16,7 +16,7 @@ Information about RPCs, Block explorer, faucet, etc — everything is available 
 
 No real zk prover here, the network works in the optimistic mode.
 
-\*This step could be **free** for the client, but time-limited. \~2-4 tps (\*see [What are the conditions of the trial](https://www.notion.so/What-are-the-conditions-of-the-trial-01b77be4a9d447d5886a8fef4835c948?pvs=21))
+\*This step could be **free** for the client, but time-limited. \~2-4 tps (\*see [What are the conditions of the tria](../pricing-and-trial/what-are-the-conditions-of-the-trial.md)[l](../pricing-and-trial/what-are-the-conditions-of-the-trial.md))
 
 ## 2. (optional) Testing on Stavanger Public Testnet
 
