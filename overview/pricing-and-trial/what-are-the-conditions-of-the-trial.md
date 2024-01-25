@@ -4,7 +4,7 @@
 
 ## Inactivity period
 
-[Inactivity Period (for Trial)](https://www.notion.so/Inactivity-Period-for-Trial-04ab9756312b41299a5d2f54cf229450?pvs=21)
+[Inactivity Period (for Trial)](../main-functionality/inactivity-period-for-trial.md)
 
 ## Lengths of the trial
 
