@@ -8,7 +8,7 @@ When the commercial release is available, there will be self-service subscriptio
 
 * Free trial — live 🟢 — available at presto.gateway.fm
 * Paid plans — in development 🚧
-* Enterprise customers — live 🟢 — [How to Become an Enterprise Customer?](https://www.notion.so/How-to-Become-an-Enterprise-Customer-399550f40c1f4dfc9f8e11263f7c246f?pvs=21) and [Enterprise vs Paid — what is the difference?](https://www.notion.so/Enterprise-vs-Paid-what-is-the-difference-eea20637f5334261a600f2fcbe8c778f?pvs=21)
+* Enterprise customers — live 🟢 — [How to Become an Enterprise Customer?](../for-enterprise-customers/how-to-become-an-enterprise-customer.md)[ ](../for-enterprise-customers/how-to-become-an-enterprise-customer.md)and [Enterprise vs Paid — what is the difference?](../for-enterprise-customers/enterprise-vs-paid-what-is-the-difference.md)
 
 ***
 
