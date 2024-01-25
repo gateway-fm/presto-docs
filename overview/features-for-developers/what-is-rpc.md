@@ -10,8 +10,8 @@ In summary, Presto L2 and Blockchain JSON-RPC provide a powerful combination for
 
 To interact with Blockchain JSON-RPC, developers can use various libraries and frameworks. Some popular ones include:
 
-* Web3.js ([How To Use Presto with web3.js](https://www.notion.so/How-To-Use-Presto-with-web3-js-2c1749f74d99448fb59c185eb6c79215?pvs=21)) A JavaScript library that provides a simple and consistent interface for interacting with JSON-RPC based blockchains like Ethereum.
-* ethers.js ([How To Use Presto with ethers.js](https://www.notion.so/How-To-Use-Presto-with-ethers-js-76108fc64f5a4481860c7251f34850aa?pvs=21)): Another JavaScript library that offers a complete set of tools and utilities for interacting with JSON-RPC based blockchains.
-* [web3.py](http://web3.py/) ([How to use Presto with web3.py](https://www.notion.so/How-to-use-Presto-with-web3-py-d77efab4740646cfa1d4a4a5fed59335?pvs=21)): A Python library that allows developers to interact with JSON-RPC based blockchains using Python code.
+* Web3.js ([How To Use Presto with web3.js](how-to-use-presto-with-web3.js.md)) A JavaScript library that provides a simple and consistent interface for interacting with JSON-RPC based blockchains like Ethereum.
+* ethers.js ([How To Use Presto with ethers.js](how-to-use-presto-with-ethers.js.md)): Another JavaScript library that offers a complete set of tools and utilities for interacting with JSON-RPC based blockchains.
+* [web3.py](http://web3.py/) ([How to use Presto with web3.py](how-to-use-presto-with-web3.py.md)): A Python library that allows developers to interact with JSON-RPC based blockchains using Python code.
 
 These libraries provide convenient abstractions and helper functions to simplify the process of sending requests, handling responses, and working with blockchain data. Developers can choose the library that best suits their programming language and requirements to interact with Blockchain JSON-RPC effectively.
