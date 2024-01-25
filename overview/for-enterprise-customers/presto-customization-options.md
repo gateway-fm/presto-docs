@@ -2,7 +2,7 @@
 
 ## Presto Customization Options
 
-see also: [Enterprise vs Paid — what is the difference?](https://www.notion.so/Enterprise-vs-Paid-what-is-the-difference-eea20637f5334261a600f2fcbe8c778f?pvs=21) and [How to Become an Enterprise Customer?](https://www.notion.so/How-to-Become-an-Enterprise-Customer-399550f40c1f4dfc9f8e11263f7c246f?pvs=21)
+see also: [Enterprise vs Paid — what is the difference?](enterprise-vs-paid-what-is-the-difference.md) and [How to Become an Enterprise Customer?](how-to-become-an-enterprise-customer.md)
 
 ***
 
