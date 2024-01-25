@@ -10,5 +10,8 @@ Downsides of this approach is opening up to spamming the network.
 
 ## How to Deploy a gasless rollup
 
-1. Deploying a gasless rollup follows the same process as How to [Create a Rollup](how-to-create-a-rollup.md), except you select “Gasless/No fees” as an option.
+1.  Deploying a gasless rollup follows the same process as How to [Create a Rollup](how-to-create-a-rollup.md), except you select “Gasless/No fees” as an option.\
+    &#x20;
+
+    <figure><img src="../../.gitbook/assets/Untitled (3) (1).png" alt=""><figcaption></figcaption></figure>
 2. When sending transactions to the network, set `gasPrice` to `0`.

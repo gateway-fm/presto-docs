@@ -13,7 +13,7 @@ Top to bottom it consist of:
 * sections\
 
 
-<figure><img src="../../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Getting Started
 
