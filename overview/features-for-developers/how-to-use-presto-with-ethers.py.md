@@ -6,13 +6,15 @@
     <figure><img src="../../.gitbook/assets/web3_js.png" alt=""><figcaption></figcaption></figure>
 2. Set up a custom RPC endpoint:
 
-To use Presto with [ethers.py](http://ethers.py/), you can set up a custom RPC endpoint using the following code:
+To use Presto with [ethers.py](https://pypi.org/project/ethers/), you can set up a custom RPC endpoint using the following code:
 
 ```python
-from ethers import JsonRpcProvider
+from ethers.providers import HTTPProvider
 
 url = "<L2 RPC URL>"
 
-gatewayHttpProvider = JsonRpcProvider(url)
+gatewayHttpProvider = HTTPProvider(url)
+
+block_number = await gatewayHttpProvider.get_block_number()
 
 ```
