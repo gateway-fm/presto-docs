@@ -3,7 +3,10 @@
 To use Presto with [viem.sh](http://viem.sh/) library using a custom RPC endpoint, follow these steps:
 
 1. Install the [viem.sh](http://viem.sh/) library by running `npm install viem.sh` in your project directory.
-2. Create your rollup ([How to Create a Rollup](https://www.notion.so/How-to-Create-a-Rollup-e3df7836e3944c61a97e516134d43a90?pvs=21)), open it, and get the RPC URL ([What Is RPC](https://www.notion.so/What-Is-RPC-094669c329814c6a92d7acbae84d5d3c?pvs=21)).
+2.  Create your rollup ([How to Create a Rollup](../main-functionality/how-to-create-a-rollup.md)), open it, and get the RPC URL ([What Is RPC](what-is-rpc.md)).\
+
+
+    <figure><img src="../../.gitbook/assets/web3_js.png" alt=""><figcaption></figcaption></figure>
 3. Set up a provider to connect to your Presto L2 network using your custom RPC endpoint.
 4. Make sure to replace `YOUR_CUSTOM_RPC_ENDPOINT` with the URL of your custom RPC endpoint.
 
