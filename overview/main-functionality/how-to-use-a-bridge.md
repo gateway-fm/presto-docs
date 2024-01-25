@@ -42,7 +42,7 @@ Access to block explorers, KYC, indexers & more
 
 L2s & L3, rollups & validiums
 
-For the setup, here’s a documentation guide on [‘How to Create a Rollup’](https://www.notion.so/How-to-Create-a-Rollup-e3df7836e3944c61a97e516134d43a90?pvs=21). Each Presto L2 comes with a pre-built bridge to the rootchain (L1), which is protected by ZK-proofs.
+For the setup, here’s a documentation guide on [‘How to Create a Rollup’](how-to-create-a-rollup.md). Each Presto L2 comes with a pre-built bridge to the rootchain (L1), which is protected by ZK-proofs.
 
 With Presto, you don't need to manually submit the generated proofs-of-validity or directly interact with the bridge contract on the L1 blockchain. Presto automates this process for you. It handles the submission of proofs-of-validity to the bridge contract and verifies them internally. Once verified, Presto executes the corresponding transactions on the L1 blockchain seamlessly and securely.
 
@@ -90,7 +90,7 @@ After you’ve connected to the public rollup sn2-Stavanger (root chain Ethereum
 
 <figure><img src="../../.gitbook/assets/bridge_8.jpeg" alt=""><figcaption></figcaption></figure>
 
-7.The details are also available on the blockchain explorer. Once the proofs are validated, the transactions are executed on the L1 blockchain, providing trust and security. This can be observed by examining the transaction history and state changes on the L1 blockchain via block explorers or any other interface provided by the blockchain network.
+7. The details are also available on the blockchain explorer. Once the proofs are validated, the transactions are executed on the L1 blockchain, providing trust and security. This can be observed by examining the transaction history and state changes on the L1 blockchain via block explorers or any other interface provided by the blockchain network.
 
 <figure><img src="../../.gitbook/assets/bridge_9.jpeg" alt=""><figcaption></figcaption></figure>
 
