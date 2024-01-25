@@ -102,27 +102,27 @@ This guide will reverse the process from above by bridging from L1 to L2. The Pr
 
 1. Use Sepolia to send ETH to your MetaMask. Before you can bridge from L1 to L2, ensure that you have received ETH in your MetaMask wallet, which is connected to the Presto Bridge.
 
-[https://lh7-us.googleusercontent.com/LIBwPReYikFHKDDJLMIgNg1aZO\_ae0C48Yg8TWe8v\_vAXElu8hZpoLS8fqMdgLZ6ISrs1R6CEaescjG9kkoy94WvFkCIUNivCmy8INiSRfq-Cx4On9OKXjvIk9ISfFTc6H4Tjc3wtE42k7RYhbAC8uI](https://lh7-us.googleusercontent.com/LIBwPReYikFHKDDJLMIgNg1aZO\_ae0C48Yg8TWe8v\_vAXElu8hZpoLS8fqMdgLZ6ISrs1R6CEaescjG9kkoy94WvFkCIUNivCmy8INiSRfq-Cx4On9OKXjvIk9ISfFTc6H4Tjc3wtE42k7RYhbAC8uI)
+<figure><img src="../../.gitbook/assets/br1.jpeg" alt=""><figcaption></figcaption></figure>
 
 Upon receiving the ETH in your MetaMask wallet, since it’s connected to the Presto Bridge it will automatically proceed the bridging.
 
-1. Select the 'from' and 'to' options, along with the desired amount to be bridged. Click 'bridge' to initiate the process.
+2. Select the 'from' and 'to' options, along with the desired amount to be bridged. Click 'bridge' to initiate the process.
 
-[https://lh7-us.googleusercontent.com/7uZDYG5\_AlRPw3aRNpMvx6kGW\_MBcBgnxbF5jmcQw4yjmQewYUk-eYasc5GjRbbsztHag-ar4nRgXdJzTf1TxJrTQ-mRUcN-7GUfcXkmfxQKVZ7dZoR6LwNtPUqrQfhyfTRTrBdIN5fpdVu4AqN3MR8](https://lh7-us.googleusercontent.com/7uZDYG5\_AlRPw3aRNpMvx6kGW\_MBcBgnxbF5jmcQw4yjmQewYUk-eYasc5GjRbbsztHag-ar4nRgXdJzTf1TxJrTQ-mRUcN-7GUfcXkmfxQKVZ7dZoR6LwNtPUqrQfhyfTRTrBdIN5fpdVu4AqN3MR8)
+<figure><img src="../../.gitbook/assets/br2.jpeg" alt=""><figcaption></figcaption></figure>
 
-1.  This prompt will ask you to write “I Understand” before continuing. In your MetaMask wallet, confirm the bridge transaction by following the prompted instructions.
+3. This prompt will ask you to write “I Understand” before continuing. In your MetaMask wallet, confirm the bridge transaction by following the prompted instructions.
 
-    [https://lh7-us.googleusercontent.com/1BViNzfmGKc\_H0SNhkG5NXH-7URiUn\_EicryCPnAMHjGapnKxl-9dEUqDDrIZV\_CsxHOD\_\_uV6X1q69oyteYusCE1M5YTSXelK\_9oEI\_ZTHMS3ZVzu0xcHBA58MEsz9zKIjsCRF0ZnxdsOPlSG67ZjI](https://lh7-us.googleusercontent.com/1BViNzfmGKc\_H0SNhkG5NXH-7URiUn\_EicryCPnAMHjGapnKxl-9dEUqDDrIZV\_CsxHOD\_\_uV6X1q69oyteYusCE1M5YTSXelK\_9oEI\_ZTHMS3ZVzu0xcHBA58MEsz9zKIjsCRF0ZnxdsOPlSG67ZjI)
+<figure><img src="../../.gitbook/assets/br3.jpeg" alt=""><figcaption></figcaption></figure>
 
-[https://lh7-us.googleusercontent.com/wERLqLs0aEnIJIRNYP\_J4cJpnq2pQWZKbG36cD8vpnK9Rf-ohaLaEDgRP8kpQxWnEdaFQcYn1Xd1RrAPHKvpyW-ieIu54Btpm2xvTEEkjyQJ3PHUzERxTkx02CupBxAyhrjCNP\_74ubM2kKicQg96TU](https://lh7-us.googleusercontent.com/wERLqLs0aEnIJIRNYP\_J4cJpnq2pQWZKbG36cD8vpnK9Rf-ohaLaEDgRP8kpQxWnEdaFQcYn1Xd1RrAPHKvpyW-ieIu54Btpm2xvTEEkjyQJ3PHUzERxTkx02CupBxAyhrjCNP\_74ubM2kKicQg96TU)
+<figure><img src="../../.gitbook/assets/br4.jpeg" alt=""><figcaption></figcaption></figure>
 
-[https://lh7-us.googleusercontent.com/UFMGqXqVPeEdODr6MhqhjsrEJDeUxoRQ1gGuoAel\_2Ac7sXt2adBQFTmZWMWKYphwSZsuO\_m6MwmPPSV36nX1DmgzAhzBwEwd1nYBHi3bIU39eDsu51PQVl528r6792D-O3BZ4Ztqr0-3NCKSkKTYzM](https://lh7-us.googleusercontent.com/UFMGqXqVPeEdODr6MhqhjsrEJDeUxoRQ1gGuoAel\_2Ac7sXt2adBQFTmZWMWKYphwSZsuO\_m6MwmPPSV36nX1DmgzAhzBwEwd1nYBHi3bIU39eDsu51PQVl528r6792D-O3BZ4Ztqr0-3NCKSkKTYzM)
+<figure><img src="../../.gitbook/assets/br5.jpeg" alt=""><figcaption></figcaption></figure>
 
-1. Once the bridge transaction is completed, you can view the details of the bridged transaction on the built-in blockchain explorer.
+4. Once the bridge transaction is completed, you can view the details of the bridged transaction on the built-in blockchain explorer.
 
-[https://lh7-us.googleusercontent.com/wzw1h9T5TvJc2y3THnrhHR6q-DGWFT2iqan3MTveCKrgTnuN9Sfkqn9IvOYRYyjl71SiigD7Voykp4D-5PTFCdRJ8LE548C6rOI9tjfKOzGbhyx1prQ8IPOtkY085Zg46670JhRSHk-DO7\_4sPXVSYA](https://lh7-us.googleusercontent.com/wzw1h9T5TvJc2y3THnrhHR6q-DGWFT2iqan3MTveCKrgTnuN9Sfkqn9IvOYRYyjl71SiigD7Voykp4D-5PTFCdRJ8LE548C6rOI9tjfKOzGbhyx1prQ8IPOtkY085Zg46670JhRSHk-DO7\_4sPXVSYA)
+<figure><img src="../../.gitbook/assets/br6.jpeg" alt=""><figcaption></figcaption></figure>
 
-[https://lh7-us.googleusercontent.com/koNrAW1QH-f6vgcPY22b6QekpkcR1Wse5cDFsEFd2XjIp-ISBfoOIBjjxy-oj1p3rlDRNOAtjBGq0bUXbUGv-zsDZhSLcguwMvFt4qAcMbdHqnCJ84VnIYTjRbFJdilbHMFhtyMekkqRqaNyYpWHYsU](https://lh7-us.googleusercontent.com/koNrAW1QH-f6vgcPY22b6QekpkcR1Wse5cDFsEFd2XjIp-ISBfoOIBjjxy-oj1p3rlDRNOAtjBGq0bUXbUGv-zsDZhSLcguwMvFt4qAcMbdHqnCJ84VnIYTjRbFJdilbHMFhtyMekkqRqaNyYpWHYsU)
+<figure><img src="../../.gitbook/assets/br7.jpeg" alt=""><figcaption></figcaption></figure>
 
 With Presto, you can enjoy increased scalability, reduced transaction fees, and improved privacy. The majority of transaction processing occurs off-chain within the ZK-rollup, providing a secure and efficient user experience.
 
