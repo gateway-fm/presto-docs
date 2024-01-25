@@ -47,5 +47,5 @@
 
 ## Use Cases
 
-* [🎨 For Enterprises](use-cases/for-designers.md)
+* [🏢 For Enterprises](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
