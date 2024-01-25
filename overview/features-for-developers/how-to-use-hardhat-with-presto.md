@@ -18,7 +18,10 @@ To use HardHat with Presto and deploy a smart contract, follow these steps:
     npx hardhat --config hardhat.config.ts --network yourL2Name
     ```
 
-    * This command will run HardHat with the specified custom config file and connect to your L2 network.
+    *   This command will run HardHat with the specified custom config file and connect to your L2 network.\
+
+
+        <figure><img src="../../.gitbook/assets/hardhat1.png" alt=""><figcaption></figcaption></figure>
 4. **Write Your Smart Contract:**
    * Create a new Solidity file (e.g., `MyContract.sol`) in the `contracts` directory of your project.
    * Write your smart contract code in the Solidity file.
