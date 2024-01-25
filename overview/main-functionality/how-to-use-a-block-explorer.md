@@ -1,6 +1,9 @@
 # How to use a Block Explorer
 
+\
 Each Layer 2 (L2) on Presto comes with a pre-bundled block explorer, which is a powerful tool used to explore and analyze blockchain data. Here are the steps to effectively use a block explorer:
+
+<figure><img src="../../.gitbook/assets/Block_expl.png" alt=""><figcaption></figcaption></figure>
 
 1. Open the block explorer: Start by navigating to a reliable block explorer website. There are various block explorers available for different blockchain networks.
 2. Enter the transaction or block hash: Once on the block explorer website, locate the search bar. Enter the transaction hash or block hash of the transaction or block you want to explore.
