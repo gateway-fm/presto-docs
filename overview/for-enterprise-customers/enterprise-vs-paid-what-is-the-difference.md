@@ -6,7 +6,7 @@ Paid plans are limited in configuration options (only those that are available t
 
 ## What the Enterprise Tier offers?
 
-1. Full set of customization options (see [Presto Customization Options](https://www.notion.so/Presto-Customization-Options-c0d02f274bca4e73b9573d76214dd85a?pvs=21))
+1. Full set of customization options (see [Presto Customization Options](presto-customization-options.md))
 2. End-to-end support with provisioning & guidance when selecting options
 3. On-premise solution
 4. Custom SLA & Support plans
@@ -18,4 +18,4 @@ Paid plans are limited in configuration options (only those that are available t
 
 ***
 
-See also: [How to Become an Enterprise Customer?](https://www.notion.so/How-to-Become-an-Enterprise-Customer-399550f40c1f4dfc9f8e11263f7c246f?pvs=21)
+See also: [How to Become an Enterprise Customer?](how-to-become-an-enterprise-customer.md)
