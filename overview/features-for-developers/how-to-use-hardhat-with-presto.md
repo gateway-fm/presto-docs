@@ -22,12 +22,15 @@ To use HardHat with Presto and deploy a smart contract, follow these steps:
 
 
         <figure><img src="../../.gitbook/assets/hardhat1.png" alt=""><figcaption></figcaption></figure>
-4. **Write Your Smart Contract:**
+
+4. **Add Private key to .env:**
+5. **Add.env to .gitignore:**
+6. **Write Your Smart Contract:**
    * Create a new Solidity file (e.g., `MyContract.sol`) in the `contracts` directory of your project.
    * Write your smart contract code in the Solidity file.
-5. **Compile Your Smart Contract:**
+7. **Compile Your Smart Contract:**
    * In your project directory, run `npx hardhat compile` to compile your smart contract.
-6. **Deploy Your Smart Contract:**
+8. **Deploy Your Smart Contract:**
    * Write a deployment script in the `scripts` directory to deploy your smart contract.
    * Inside the deployment script, use the HardHat API to deploy your contract to the Presto network.
    * Run the deployment script by executing `npx hardhat run scripts/deploy.js` in your project directory.
